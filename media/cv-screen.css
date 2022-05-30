@@ -68,7 +68,13 @@ p {
 	margin-right: 0;
 	width: 55%;
 }
-
+span {
+    position: relative;
+    left: 25%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 55%;
+}
 code {
 	font: normal normal;
 	font-size: 90%;
@@ -136,7 +142,6 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #bc412b;
-	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -162,7 +167,6 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
 	position: relative;
 	left: 25%;
 	color: #bc412b;
@@ -172,6 +176,12 @@ a:hover {
 
 #webaddress a {
 	text-decoration: none;
+}
+
+#technology{
+    color: #bc412b;
+    font-size: 0.9em;
+    position: relative;
 }
 
 em {

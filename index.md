@@ -4,30 +4,22 @@ title: Darshan Kathiriya's CV
 ---
 # Darshan Kathiriya
 Software Developer, allNovaScotia.com
-
-<a href="darshan.kathiriya@dal.ca">darshan.kathiriya@dal.ca</a>
-
+<!--<a href="darshan.kathiriya@dal.ca">darshan.kathiriya@dal.ca</a>-->
 <div id="webaddress">
-  <a href="https://github.com/dash2507"><i class="fab fa-github"></i> dash2507</a> - 
+  <a href="https://github.com/dash2507"><i class="fab fa-github"></i> dash2507</a>
 </div>
-
-
-## Education
-
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
-
-`1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
 
 
 ## Experience
 
 `Mar 2021- present`
-**Full-stack Developer**, *allNovaScotia.com*, Halifax, NS.<br/>
-* Building quantitative links between geodynamics and metamorphism in the Paleoproterozoic: Insight into emplacement of orogenic gold deposits
-* Building quantitative links between geodynamics and metamorphism in the Paleoproterozoic: Insight into emplacement of orogenic gold deposits
-* Building quantitative links between geodynamics and metamorphism in the Paleoproterozoic: Insight into emplacement of orogenic gold deposits
+**Software Developer**, *allNovaScotia.com*, Halifax, NS.<br/>
+<div id="technology">
+<span>Kubernetes, GraphQL, Next.js, Node, Express.js, ElasticSearch, Redis</span>
+</div>
+- Building quantitative links between geodynamics and metamorphism in the Paleoproterozoic: Insight into emplacement of orogenic gold deposits 
+- Building quantitative links between geodynamics and metamorphism in the Paleoproterozoic: Insight into emplacement of orogenic gold deposits 
+- Building quantitative links between geodynamics and metamorphism in the Paleoproterozoic: Insight into emplacement of orogenic gold deposits
 
 `2014–2018`
 **Academy Project**, *Academy of Finland*, Finland, 451 763€. Sole PI.<br/>
@@ -40,6 +32,15 @@ What controls strain partitioning at obliquely convergent ocean-continent margin
 `2010-2012`
 **ACEnet Research Fellowships Program**, *Atlantic Canada Computational Excellence Network (ACEnet)*, Canada, $40 000 [CAD]. Co-PI with C. Beaumont.<br/>
 3-D plateau formation and evolution from numerical model experiments
+
+
+## Education
+
+`2003-2008`
+**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+
+`1998-2002`
+**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
 
 ## Personal
 
